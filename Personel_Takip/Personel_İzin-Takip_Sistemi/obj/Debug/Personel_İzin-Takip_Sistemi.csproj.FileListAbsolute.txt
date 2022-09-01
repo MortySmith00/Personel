@@ -1,0 +1,14 @@
+C:\Users\eneso\source\repos\Personel_İzin-Takip_Sistemi\Personel_İzin-Takip_Sistemi\bin\Debug\Personel_İzin-Takip_Sistemi.exe.config
+C:\Users\eneso\source\repos\Personel_İzin-Takip_Sistemi\Personel_İzin-Takip_Sistemi\bin\Debug\Personel_İzin-Takip_Sistemi.exe
+C:\Users\eneso\source\repos\Personel_İzin-Takip_Sistemi\Personel_İzin-Takip_Sistemi\bin\Debug\Personel_İzin-Takip_Sistemi.pdb
+C:\Users\eneso\source\repos\Personel_İzin-Takip_Sistemi\Personel_İzin-Takip_Sistemi\obj\Debug\Personel_İzin-Takip_Sistemi.csprojAssemblyReference.cache
+C:\Users\eneso\source\repos\Personel_İzin-Takip_Sistemi\Personel_İzin-Takip_Sistemi\obj\Debug\Personel_İzin_Takip_Sistemi.Properties.Resources.resources
+C:\Users\eneso\source\repos\Personel_İzin-Takip_Sistemi\Personel_İzin-Takip_Sistemi\obj\Debug\Personel_İzin-Takip_Sistemi.csproj.GenerateResource.cache
+C:\Users\eneso\source\repos\Personel_İzin-Takip_Sistemi\Personel_İzin-Takip_Sistemi\obj\Debug\Personel_İzin-Takip_Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\Personel_İzin-Takip_Sistemi\Personel_İzin-Takip_Sistemi\obj\Debug\Personel_İzin-Takip_Sistemi.exe
+C:\Users\eneso\source\repos\Personel_İzin-Takip_Sistemi\Personel_İzin-Takip_Sistemi\obj\Debug\Personel_İzin-Takip_Sistemi.pdb
+C:\Users\eneso\source\repos\Personel_İzin-Takip_Sistemi\Personel_İzin-Takip_Sistemi\obj\Debug\Personel_İzin_Takip_Sistemi.FrmAdminGiris.resources
+C:\Users\eneso\source\repos\Personel_İzin-Takip_Sistemi\Personel_İzin-Takip_Sistemi\obj\Debug\Personel_İzin_Takip_Sistemi.FrmAnaForm.resources
+C:\Users\eneso\source\repos\Personel_İzin-Takip_Sistemi\Personel_İzin-Takip_Sistemi\obj\Debug\Personel_İzin_Takip_Sistemi.FrmPersonelGiris.resources
+C:\Users\eneso\source\repos\Personel_İzin-Takip_Sistemi\Personel_İzin-Takip_Sistemi\obj\Debug\Personel_İzin_Takip_Sistemi.FrmPersonel.resources
+C:\Users\eneso\source\repos\Personel_İzin-Takip_Sistemi\Personel_İzin-Takip_Sistemi\obj\Debug\Personel_İzin_Takip_Sistemi.FrmAdmin.resources
